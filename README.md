@@ -36,5 +36,5 @@ ESS/CRONOS-2) gemäß den Vorgaben der jeweiligen Anbieter zitieren.
 
 ### Kontakt
 
-Lukas-Hofmann@uni-graz.at
+Lukas.Hofmann@uni-graz.at
 
